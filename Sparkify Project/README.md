@@ -22,7 +22,7 @@ Procedures of analysis:
 4. Modelling
 
 Results:  
-Only model used here is logistice regression and tested.
+Only model used here is logistice regression and tested. Currently the model is giving only 72% accuracy which can be worked upon to make it more.
 
 
 ## Acknowledgement
