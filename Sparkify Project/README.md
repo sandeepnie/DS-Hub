@@ -1,4 +1,4 @@
-# Udacity Nanodegree big data Capstone Project--Sparkify
+# Udacity Final Project--Sparkify
 
 
 ## Project Backgound
